@@ -27,3 +27,14 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
